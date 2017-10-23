@@ -7,4 +7,4 @@ Some small disclaimers: I know the code is suboptimal, just learning bash here. 
  
  3. Save the script in a UNIX enviroment and run the script. 
  
- 4, Enjoy
+ 4. Enjoy
